@@ -4,6 +4,6 @@ class CreateGenres < ActiveRecord::Migration
     create_table :genres do |t|
       t.string :name
       t.timestamp
-    end 
+    end
   end 
 end
