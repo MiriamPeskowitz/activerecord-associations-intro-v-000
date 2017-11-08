@@ -5,5 +5,5 @@ class CreateArtists < ActiveRecord::Migration
       t.string :name
       t.timestamp
     end
-  end 
+  end
 end
